@@ -6,6 +6,10 @@ Desenvolvimento de API Restfull de produtos
 git clone https://github.com/adnansoffiatti/apifullstack.git
 
 ## Estrutura de pastas
+-   Controllers
+-   Database
+-   Models
+-   Routes
 
 ## Dependências usadas:
 
